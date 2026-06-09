@@ -1,0 +1,15 @@
+{
+  "concurrency_cap": 4,
+  "pop_size": 2,
+  "gen_count": 1,
+  "sweep_concurrency_start": 1,
+  "sweep_concurrency_end": 4,
+  "sweep_context_start": 512,
+  "sweep_context_end": 2048,
+  "sweep_context_step": 512,
+  "soak_seconds": 30,
+  "base_url": "http://localhost:1234",
+  "poll_interval": 2.0,
+  "python_version": "3.13.5",
+  "platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O"
+}
